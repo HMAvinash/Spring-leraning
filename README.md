@@ -2,7 +2,7 @@
 
 Hi Guys,
 
-This code is written for basic unnderstanding of spring
+This code is written for basic understanding of spring
 
 Regards,
 Avinash
